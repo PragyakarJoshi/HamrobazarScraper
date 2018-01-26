@@ -1,5 +1,5 @@
 # HamrobazarScraper
 
-Product Information scraper used to scrape inforamation from a local Nepali E-Commerce Website 'HamroBazar.com'.
+Scrape product details from a local Nepali E-Commerce Website 'HamroBazar.com' on the basis of given keywords.
 <br>
 Made using Java Programming language and Regular expressions.
